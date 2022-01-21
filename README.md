@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @maxa101
+- 👀 I’m interested in full stack and cloud technologies  
+- 🌱 I’m currently learning how to be a better leader and AI/ML 
